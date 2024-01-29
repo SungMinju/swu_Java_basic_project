@@ -1,5 +1,0 @@
-package exception.runtime;
-
-public class ClassCastExample {
-
-}
